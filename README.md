@@ -7,7 +7,6 @@ I apologize for my english, thank you for reading!
 
 ## Socials
 
-![Instagram](https://img.shields.io/badge/ghhr.json-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=black)
 ![Codepen](https://img.shields.io/badge/gersonhareb-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 ### Badges
